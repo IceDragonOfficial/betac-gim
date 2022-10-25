@@ -1,0 +1,48 @@
+{
+  "name": "bos-altyapi-v13",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.2",
+    "express": "^4.18.2",
+    "pretty-ms": "^8.0.0",
+    "quick.db": "^7.1.3",
+    "nrc.db": "^4.0.11",
+    "orio.db": "^3.1.2",
+    "node-os-utils": "^1.3.7",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "native-request": "^1.1.0",
+    "node-superfetch": "^0.3.2",
+    "parse-ms": "^2.1.0",
+    "mongoose": "^6.0.8",
+    "@discordjs/builders": "^1.3.0",
+    "ms": "^2.1.3",
+    "croxydb": "^0.0.7",
+    "message-js": "^0.0.5",
+    "quickredis-db": "^1.0.7",
+    "guild.js": "^1.0.2",
+    "common-tags": "^1.8.2",
+    "snekfetch": "^4.0.4",
+    "canvacord": "^5.4.8",
+    "chalk": "^4.1.2",
+    "hastebin-gen": "^2.0.5",
+    "discord-buttons": "^4.0.0",
+    "inflames.db": "^2.5.3",
+    "node-fetch": "^2.6.6",
+    "discord-anti-spam-tr": "^0.7.4",
+    "discord-anti-spam": "^2.8.1",
+    "arraybuffer-to-buffer": "^0.0.7",
+    "humanize-duration": "^3.27.3",
+    "jimp": "^0.16.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
